@@ -13,33 +13,27 @@ I build data pipelines that can be audited and evaluate models against explicit 
 
 ## Technical skills
 
-![Technical skills by area. Programming and data: Python, SQL, NumPy, pandas, Apache Parquet. Machine learning and optimization: PyTorch, scikit-learn, NLP, PuLP, mixed-integer optimization. Data systems and visualization: SQLite, Neo4j, Pydantic, Streamlit, Plotly. Software quality and delivery: Git, GitHub Actions, pytest, Hypothesis, Ruff.](https://raw.githubusercontent.com/GerardoLauro/GerardoLauro/main/technical-skills.svg)
+![PROGRAMMING LANGUAGES: Python, Java, JavaScript, C, C++, SQL. MACHINE LEARNING & SIGNAL PROCESSING: PyTorch, scikit-learn, NLP, Computer Vision, Wavelets. DATA ENGINEERING & STORAGE: NumPy, pandas, Apache Parquet, SQLite, Neo4j, Pydantic. DASHBOARDS & INTERFACES: React, Streamlit, Plotly. OPTIMIZATION: PuLP, CBC, Mixed-integer programming. SOFTWARE QUALITY & DELIVERY: Git, GitHub Actions, pytest, Hypothesis, Ruff.](https://raw.githubusercontent.com/GerardoLauro/GerardoLauro/main/technical-skills.svg)
 
 ## Selected projects
 
-### [CivicData Sentinel](https://github.com/GerardoLauro/CivicData-Sentinel)
-
-**Data quality · Data contracts · Audit trails**
-
-I built a monitor for Madrid’s public datasets. It validates incoming snapshots, quarantines suspicious updates and preserves the evidence needed to replay each decision offline. The dashboard below shows a local run with observed municipal data.
-
-[![CivicData Sentinel dashboard showing Madrid municipal data and dataset status](https://raw.githubusercontent.com/GerardoLauro/CivicData-Sentinel/main/docs/assets/dashboard-overview.png)](https://github.com/GerardoLauro/CivicData-Sentinel)
-
-[Example outcomes](https://github.com/GerardoLauro/CivicData-Sentinel/blob/main/docs/examples.md) · [CI runs](https://github.com/GerardoLauro/CivicData-Sentinel/actions/workflows/ci.yml)
-
 ### [Polysignal](https://github.com/GerardoLauro/Polysignal)
 
-**Data pipelines · NLP · Knowledge graphs · Temporal evaluation**
+**Big data engineering · NLP · Knowledge graphs · Temporal evaluation**
 
-I co-developed a research pipeline that links social discussions to prediction markets and tests whether the resulting signals add information beyond market prices. The documented experiment covered **300 resolved markets** and approximately **1.37 million posts**. In that evaluation, the social features did not improve on the market baseline. The public repository includes code, documentation and data samples.
+I co-developed a research pipeline that links social posts to prediction markets and evaluates whether those signals add predictive value beyond market prices. The documented study covers **300 resolved markets**, **1.35 million price observations** and **1.37 million social posts**. In the reported backtest, the market-only model achieved **0.989 ROC AUC** and the market-plus-social model reached **0.975**. The repository includes the code, report, dashboard source and data samples.
 
-[Technical report](https://github.com/GerardoLauro/Polysignal/blob/main/pdf_latex/main.pdf) · [Reproducibility guide](https://github.com/GerardoLauro/Polysignal/blob/main/docs/REPRODUCIBILITY.md)
+[Technical report](https://github.com/GerardoLauro/Polysignal/blob/main/pdf_latex/main.pdf) · [Pipeline documentation](https://github.com/GerardoLauro/Polysignal/blob/main/docs/PIPELINE.md) · [Reproducibility guide](https://github.com/GerardoLauro/Polysignal/blob/main/docs/REPRODUCIBILITY.md)
 
-| Project | Technical focus | Starting point |
+### More projects
+
+| Project | What it shows | Where to start |
 | --- | --- | --- |
-| **[Energy Planner](https://github.com/GerardoLauro/Innothon2025-energy-efficiency)** | Innothon prototype for energy scheduling with PuLP/CBC and a comparison against a baseline schedule. | [Offline demo](https://github.com/GerardoLauro/Innothon2025-energy-efficiency#demo-offline) |
-| **[Wavelet-SRNet](https://github.com/GerardoLauro/Progetto-ESM)** | PyTorch coursework on wavelet-based image super-resolution, with training and evaluation scripts. | [Training and evaluation](https://github.com/GerardoLauro/Progetto-ESM#training-16x16---128x128) |
+| **[Energy Planner](https://github.com/GerardoLauro/Innothon2025-energy-efficiency)** | Mixed-integer scheduling with Python and PuLP/CBC. The offline demo compares the optimized schedule with a baseline. | [Offline demo](https://github.com/GerardoLauro/Innothon2025-energy-efficiency#demo-offline) |
+| **[Wavelet-SRNet](https://github.com/GerardoLauro/Progetto-ESM)** | Wavelet-based image super-resolution in PyTorch, with training and evaluation scripts. | [Training and evaluation](https://github.com/GerardoLauro/Progetto-ESM#training-16x16---128x128) |
+| **[CivicData Sentinel](https://github.com/GerardoLauro/CivicData-Sentinel)** | Data contracts, snapshot quarantine and offline replay for Madrid’s public datasets. | [Dashboard preview](https://github.com/GerardoLauro/CivicData-Sentinel/blob/main/docs/assets/dashboard-overview.png) · [Example outcomes](https://github.com/GerardoLauro/CivicData-Sentinel/blob/main/docs/examples.md) |
 
 ## Current research
 
 **Scientific Hallucination Guard** · Master's thesis in progress. I'm developing a system that checks individual claims in LLM-generated scientific text against source papers. The evaluation focuses on numerical and methodological errors, evidence retrieval and cases where the evidence is inconclusive.
+
