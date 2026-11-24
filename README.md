@@ -5,11 +5,7 @@
 <p>MSc candidate in Computer Engineering (AI &amp; Big Data)<br>
 University of Naples Federico II · Erasmus thesis at Universidad Politécnica de Madrid</p>
 
-<a href="#selected-projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-172B4D?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
-<a href="https://www.linkedin.com/in/gerardo-lauro-97954a293/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
-<a href="mailto:gerardo.lauro.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-117A73?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
-
-[gerardo.lauro.dev@gmail.com](mailto:gerardo.lauro.dev@gmail.com)
+[Projects](#selected-projects) · [LinkedIn](https://www.linkedin.com/in/gerardo-lauro-97954a293/) · [gerardo.lauro.dev@gmail.com](mailto:gerardo.lauro.dev@gmail.com)
 
 </div>
 
@@ -17,17 +13,7 @@ I build data pipelines that can be audited and evaluate models against explicit 
 
 ## Technical skills
 
-**Programming and data**  
-![Python](https://img.shields.io/badge/Python-375A7F?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-375A7F?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-375A7F?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-375A7F?style=flat-square&logo=pandas&logoColor=white) ![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-375A7F?style=flat-square&logo=apacheparquet&logoColor=white)
-
-**Machine learning and optimization**  
-![PyTorch](https://img.shields.io/badge/PyTorch-8A4F93?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-8A4F93?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A4F93?style=flat-square) ![PuLP](https://img.shields.io/badge/PuLP-8A4F93?style=flat-square) ![Mixed-integer optimization](https://img.shields.io/badge/Mixed--integer_optimization-8A4F93?style=flat-square)
-
-**Data systems and visualization**  
-![SQLite](https://img.shields.io/badge/SQLite-117A73?style=flat-square&logo=sqlite&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-117A73?style=flat-square&logo=neo4j&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-117A73?style=flat-square&logo=pydantic&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-117A73?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-117A73?style=flat-square&logo=plotly&logoColor=white)
-
-**Software quality and delivery**  
-![Git](https://img.shields.io/badge/Git-536580?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-536580?style=flat-square&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-536580?style=flat-square&logo=pytest&logoColor=white) ![Hypothesis](https://img.shields.io/badge/Hypothesis-536580?style=flat-square) ![Ruff](https://img.shields.io/badge/Ruff-536580?style=flat-square&logo=ruff&logoColor=white)
+![Technical skills by area. Programming and data: Python, SQL, NumPy, pandas, Apache Parquet. Machine learning and optimization: PyTorch, scikit-learn, NLP, PuLP, mixed-integer optimization. Data systems and visualization: SQLite, Neo4j, Pydantic, Streamlit, Plotly. Software quality and delivery: Git, GitHub Actions, pytest, Hypothesis, Ruff.](https://raw.githubusercontent.com/GerardoLauro/GerardoLauro/main/technical-skills.svg)
 
 ## Selected projects
 
