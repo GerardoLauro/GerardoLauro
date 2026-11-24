@@ -1,61 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="547" height="254" viewBox="0 0 547 254" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="553" height="354" viewBox="0 0 553 354" role="img" aria-labelledby="title desc">
   <title id="title">Gerardo Lauro's technical skills</title>
-  <desc id="desc">PROGRAMMING &amp; DATA: Python, SQL, NumPy, pandas, Apache Parquet. MACHINE LEARNING &amp; OPTIMIZATION: PyTorch, scikit-learn, NLP, PuLP, Mixed-integer optimization. DATA SYSTEMS &amp; VISUALIZATION: SQLite, Neo4j, Pydantic, Streamlit, Plotly. SOFTWARE QUALITY &amp; DELIVERY: Git, GitHub Actions, pytest, Hypothesis, Ruff</desc>
+  <desc id="desc">PROGRAMMING LANGUAGES: Python, Java, JavaScript, C, C++, SQL. MACHINE LEARNING &amp; SIGNAL PROCESSING: PyTorch, scikit-learn, NLP, Computer Vision, Wavelets. DATA ENGINEERING &amp; STORAGE: NumPy, pandas, Apache Parquet, SQLite, Neo4j, Pydantic. DASHBOARDS &amp; INTERFACES: React, Streamlit, Plotly. OPTIMIZATION: PuLP, CBC, Mixed-integer programming. SOFTWARE QUALITY &amp; DELIVERY: Git, GitHub Actions, pytest, Hypothesis, Ruff.</desc>
   <style>
     .label { fill: #475569; font: 700 12px system-ui, sans-serif; letter-spacing: .8px; }
     .badge { fill: #fff; font: 600 13px system-ui, sans-serif; }
     @media (prefers-color-scheme: dark) { .label { fill: #cbd5e1; } }
   </style>
   <g>
-    <text class="label" x="3" y="21">PROGRAMMING &amp; DATA</text>
-    <rect x="3" y="29" width="73" height="27" rx="6" fill="#244A73"/>
-    <text class="badge" x="39.5" y="47" text-anchor="middle">Python</text>
-    <rect x="83" y="29" width="51" height="27" rx="6" fill="#244A73"/>
-    <text class="badge" x="108.5" y="47" text-anchor="middle">SQL</text>
-    <rect x="141" y="29" width="75" height="27" rx="6" fill="#244A73"/>
-    <text class="badge" x="178.5" y="47" text-anchor="middle">NumPy</text>
-    <rect x="223" y="29" width="75" height="27" rx="6" fill="#244A73"/>
-    <text class="badge" x="260.5" y="47" text-anchor="middle">pandas</text>
-    <rect x="305" y="29" width="133" height="27" rx="6" fill="#244A73"/>
-    <text class="badge" x="371.5" y="47" text-anchor="middle">Apache Parquet</text>
+    <text class="label" x="3" y="16">PROGRAMMING LANGUAGES</text>
+    <rect x="3" y="24" width="77" height="26" rx="6" fill="#244A73"/>
+    <text class="badge" x="41.5" y="42" text-anchor="middle">Python</text>
+    <rect x="86" y="24" width="60" height="26" rx="6" fill="#244A73"/>
+    <text class="badge" x="116" y="42" text-anchor="middle">Java</text>
+    <rect x="152" y="24" width="101" height="26" rx="6" fill="#244A73"/>
+    <text class="badge" x="202.5" y="42" text-anchor="middle">JavaScript</text>
+    <rect x="259" y="24" width="42" height="26" rx="6" fill="#244A73"/>
+    <text class="badge" x="280" y="42" text-anchor="middle">C</text>
+    <rect x="307" y="24" width="56" height="26" rx="6" fill="#244A73"/>
+    <text class="badge" x="335" y="42" text-anchor="middle">C++</text>
+    <rect x="369" y="24" width="54" height="26" rx="6" fill="#244A73"/>
+    <text class="badge" x="396" y="42" text-anchor="middle">SQL</text>
   </g>
   <g>
-    <text class="label" x="3" y="85">MACHINE LEARNING &amp; OPTIMIZATION</text>
-    <rect x="3" y="93" width="82" height="27" rx="6" fill="#654085"/>
-    <text class="badge" x="44" y="111" text-anchor="middle">PyTorch</text>
-    <rect x="92" y="93" width="105" height="27" rx="6" fill="#654085"/>
-    <text class="badge" x="144.5" y="111" text-anchor="middle">scikit-learn</text>
-    <rect x="204" y="93" width="52" height="27" rx="6" fill="#654085"/>
-    <text class="badge" x="230" y="111" text-anchor="middle">NLP</text>
-    <rect x="263" y="93" width="58" height="27" rx="6" fill="#654085"/>
-    <text class="badge" x="292" y="111" text-anchor="middle">PuLP</text>
-    <rect x="328" y="93" width="213" height="27" rx="6" fill="#654085"/>
-    <text class="badge" x="434.5" y="111" text-anchor="middle">Mixed-integer optimization</text>
+    <text class="label" x="3" y="75">MACHINE LEARNING &amp; SIGNAL PROCESSING</text>
+    <rect x="3" y="83" width="85" height="26" rx="6" fill="#654085"/>
+    <text class="badge" x="45.5" y="101" text-anchor="middle">PyTorch</text>
+    <rect x="94" y="83" width="105" height="26" rx="6" fill="#654085"/>
+    <text class="badge" x="146.5" y="101" text-anchor="middle">scikit-learn</text>
+    <rect x="205" y="83" width="54" height="26" rx="6" fill="#654085"/>
+    <text class="badge" x="232" y="101" text-anchor="middle">NLP</text>
+    <rect x="265" y="83" width="143" height="26" rx="6" fill="#654085"/>
+    <text class="badge" x="336.5" y="101" text-anchor="middle">Computer Vision</text>
+    <rect x="414" y="83" width="91" height="26" rx="6" fill="#654085"/>
+    <text class="badge" x="459.5" y="101" text-anchor="middle">Wavelets</text>
   </g>
   <g>
-    <text class="label" x="3" y="149">DATA SYSTEMS &amp; VISUALIZATION</text>
-    <rect x="3" y="157" width="73" height="27" rx="6" fill="#13685E"/>
-    <text class="badge" x="39.5" y="175" text-anchor="middle">SQLite</text>
-    <rect x="83" y="157" width="66" height="27" rx="6" fill="#13685E"/>
-    <text class="badge" x="116" y="175" text-anchor="middle">Neo4j</text>
-    <rect x="156" y="157" width="87" height="27" rx="6" fill="#13685E"/>
-    <text class="badge" x="199.5" y="175" text-anchor="middle">Pydantic</text>
-    <rect x="250" y="157" width="90" height="27" rx="6" fill="#13685E"/>
-    <text class="badge" x="295" y="175" text-anchor="middle">Streamlit</text>
-    <rect x="347" y="157" width="66" height="27" rx="6" fill="#13685E"/>
-    <text class="badge" x="380" y="175" text-anchor="middle">Plotly</text>
+    <text class="label" x="3" y="134">DATA ENGINEERING &amp; STORAGE</text>
+    <rect x="3" y="142" width="77" height="26" rx="6" fill="#13685E"/>
+    <text class="badge" x="41.5" y="160" text-anchor="middle">NumPy</text>
+    <rect x="86" y="142" width="75" height="26" rx="6" fill="#13685E"/>
+    <text class="badge" x="123.5" y="160" text-anchor="middle">pandas</text>
+    <rect x="167" y="142" width="133" height="26" rx="6" fill="#13685E"/>
+    <text class="badge" x="233.5" y="160" text-anchor="middle">Apache Parquet</text>
+    <rect x="306" y="142" width="73" height="26" rx="6" fill="#13685E"/>
+    <text class="badge" x="342.5" y="160" text-anchor="middle">SQLite</text>
+    <rect x="385" y="142" width="68" height="26" rx="6" fill="#13685E"/>
+    <text class="badge" x="419" y="160" text-anchor="middle">Neo4j</text>
+    <rect x="459" y="142" width="86" height="26" rx="6" fill="#13685E"/>
+    <text class="badge" x="502" y="160" text-anchor="middle">Pydantic</text>
   </g>
   <g>
-    <text class="label" x="3" y="213">SOFTWARE QUALITY &amp; DELIVERY</text>
-    <rect x="3" y="221" width="48" height="27" rx="6" fill="#465577"/>
-    <text class="badge" x="27" y="239" text-anchor="middle">Git</text>
-    <rect x="58" y="221" width="128" height="27" rx="6" fill="#465577"/>
-    <text class="badge" x="122" y="239" text-anchor="middle">GitHub Actions</text>
-    <rect x="193" y="221" width="70" height="27" rx="6" fill="#465577"/>
-    <text class="badge" x="228" y="239" text-anchor="middle">pytest</text>
-    <rect x="270" y="221" width="108" height="27" rx="6" fill="#465577"/>
-    <text class="badge" x="324" y="239" text-anchor="middle">Hypothesis</text>
-    <rect x="385" y="221" width="53" height="27" rx="6" fill="#465577"/>
-    <text class="badge" x="411.5" y="239" text-anchor="middle">Ruff</text>
+    <text class="label" x="3" y="193">DASHBOARDS &amp; INTERFACES</text>
+    <rect x="3" y="201" width="66" height="26" rx="6" fill="#235775"/>
+    <text class="badge" x="36" y="219" text-anchor="middle">React</text>
+    <rect x="75" y="201" width="92" height="26" rx="6" fill="#235775"/>
+    <text class="badge" x="121" y="219" text-anchor="middle">Streamlit</text>
+    <rect x="173" y="201" width="66" height="26" rx="6" fill="#235775"/>
+    <text class="badge" x="206" y="219" text-anchor="middle">Plotly</text>
+  </g>
+  <g>
+    <text class="label" x="3" y="252">OPTIMIZATION</text>
+    <rect x="3" y="260" width="59" height="26" rx="6" fill="#755628"/>
+    <text class="badge" x="32.5" y="278" text-anchor="middle">PuLP</text>
+    <rect x="68" y="260" width="54" height="26" rx="6" fill="#755628"/>
+    <text class="badge" x="95" y="278" text-anchor="middle">CBC</text>
+    <rect x="128" y="260" width="222" height="26" rx="6" fill="#755628"/>
+    <text class="badge" x="239" y="278" text-anchor="middle">Mixed-integer programming</text>
+  </g>
+  <g>
+    <text class="label" x="3" y="311">SOFTWARE QUALITY &amp; DELIVERY</text>
+    <rect x="3" y="319" width="48" height="26" rx="6" fill="#465577"/>
+    <text class="badge" x="27" y="337" text-anchor="middle">Git</text>
+    <rect x="57" y="319" width="129" height="26" rx="6" fill="#465577"/>
+    <text class="badge" x="121.5" y="337" text-anchor="middle">GitHub Actions</text>
+    <rect x="192" y="319" width="72" height="26" rx="6" fill="#465577"/>
+    <text class="badge" x="228" y="337" text-anchor="middle">pytest</text>
+    <rect x="270" y="319" width="111" height="26" rx="6" fill="#465577"/>
+    <text class="badge" x="325.5" y="337" text-anchor="middle">Hypothesis</text>
+    <rect x="387" y="319" width="55" height="26" rx="6" fill="#465577"/>
+    <text class="badge" x="414.5" y="337" text-anchor="middle">Ruff</text>
   </g>
 </svg>
