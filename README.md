@@ -13,7 +13,7 @@ I build data pipelines that can be audited and evaluate models against explicit 
 
 ## Technical skills
 
-![PROGRAMMING LANGUAGES: Python, Java, JavaScript, C, C++, SQL. MACHINE LEARNING & SIGNAL PROCESSING: PyTorch, scikit-learn, NLP, Computer Vision, Wavelets. DATA ENGINEERING & STORAGE: NumPy, pandas, Apache Parquet, SQLite, Neo4j, Pydantic. DASHBOARDS & INTERFACES: React, Streamlit, Plotly. OPTIMIZATION: PuLP, CBC, Mixed-integer programming. SOFTWARE QUALITY & DELIVERY: Git, GitHub Actions, pytest, Hypothesis, Ruff.](https://raw.githubusercontent.com/GerardoLauro/GerardoLauro/main/technical-skills.svg)
+![PROGRAMMING LANGUAGES: Python, Java, JavaScript, C, C++, SQL. MACHINE LEARNING & SIGNAL PROCESSING: PyTorch, scikit-learn, NLP, Computer Vision, Wavelets. DATA ENGINEERING & STORAGE: NumPy, pandas, Apache Parquet, SQLite, Neo4j, Pydantic. DASHBOARDS & INTERFACES: React, Streamlit, Plotly. OPTIMIZATION: PuLP, CBC, Mixed-integer programming. SOFTWARE QUALITY & DELIVERY: Git, GitHub Actions, pytest, Hypothesis, Ruff.](https://raw.githubusercontent.com/GerardoLauro/GerardoLauro/1f9a3642060962a4ccae666527ee0f76ce5abcc5/technical-skills.svg)
 
 ## Selected projects
 
