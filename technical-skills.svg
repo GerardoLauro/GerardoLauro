@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="547" height="254" viewBox="0 0 547 254" role="img" aria-labelledby="title desc">
+  <title id="title">Gerardo Lauro's technical skills</title>
+  <desc id="desc">PROGRAMMING &amp; DATA: Python, SQL, NumPy, pandas, Apache Parquet. MACHINE LEARNING &amp; OPTIMIZATION: PyTorch, scikit-learn, NLP, PuLP, Mixed-integer optimization. DATA SYSTEMS &amp; VISUALIZATION: SQLite, Neo4j, Pydantic, Streamlit, Plotly. SOFTWARE QUALITY &amp; DELIVERY: Git, GitHub Actions, pytest, Hypothesis, Ruff</desc>
+  <style>
+    .label { fill: #475569; font: 700 12px system-ui, sans-serif; letter-spacing: .8px; }
+    .badge { fill: #fff; font: 600 13px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) { .label { fill: #cbd5e1; } }
+  </style>
+  <g>
+    <text class="label" x="3" y="21">PROGRAMMING &amp; DATA</text>
+    <rect x="3" y="29" width="73" height="27" rx="6" fill="#244A73"/>
+    <text class="badge" x="39.5" y="47" text-anchor="middle">Python</text>
+    <rect x="83" y="29" width="51" height="27" rx="6" fill="#244A73"/>
+    <text class="badge" x="108.5" y="47" text-anchor="middle">SQL</text>
+    <rect x="141" y="29" width="75" height="27" rx="6" fill="#244A73"/>
+    <text class="badge" x="178.5" y="47" text-anchor="middle">NumPy</text>
+    <rect x="223" y="29" width="75" height="27" rx="6" fill="#244A73"/>
+    <text class="badge" x="260.5" y="47" text-anchor="middle">pandas</text>
+    <rect x="305" y="29" width="133" height="27" rx="6" fill="#244A73"/>
+    <text class="badge" x="371.5" y="47" text-anchor="middle">Apache Parquet</text>
+  </g>
+  <g>
+    <text class="label" x="3" y="85">MACHINE LEARNING &amp; OPTIMIZATION</text>
+    <rect x="3" y="93" width="82" height="27" rx="6" fill="#654085"/>
+    <text class="badge" x="44" y="111" text-anchor="middle">PyTorch</text>
+    <rect x="92" y="93" width="105" height="27" rx="6" fill="#654085"/>
+    <text class="badge" x="144.5" y="111" text-anchor="middle">scikit-learn</text>
+    <rect x="204" y="93" width="52" height="27" rx="6" fill="#654085"/>
+    <text class="badge" x="230" y="111" text-anchor="middle">NLP</text>
+    <rect x="263" y="93" width="58" height="27" rx="6" fill="#654085"/>
+    <text class="badge" x="292" y="111" text-anchor="middle">PuLP</text>
+    <rect x="328" y="93" width="213" height="27" rx="6" fill="#654085"/>
+    <text class="badge" x="434.5" y="111" text-anchor="middle">Mixed-integer optimization</text>
+  </g>
+  <g>
+    <text class="label" x="3" y="149">DATA SYSTEMS &amp; VISUALIZATION</text>
+    <rect x="3" y="157" width="73" height="27" rx="6" fill="#13685E"/>
+    <text class="badge" x="39.5" y="175" text-anchor="middle">SQLite</text>
+    <rect x="83" y="157" width="66" height="27" rx="6" fill="#13685E"/>
+    <text class="badge" x="116" y="175" text-anchor="middle">Neo4j</text>
+    <rect x="156" y="157" width="87" height="27" rx="6" fill="#13685E"/>
+    <text class="badge" x="199.5" y="175" text-anchor="middle">Pydantic</text>
+    <rect x="250" y="157" width="90" height="27" rx="6" fill="#13685E"/>
+    <text class="badge" x="295" y="175" text-anchor="middle">Streamlit</text>
+    <rect x="347" y="157" width="66" height="27" rx="6" fill="#13685E"/>
+    <text class="badge" x="380" y="175" text-anchor="middle">Plotly</text>
+  </g>
+  <g>
+    <text class="label" x="3" y="213">SOFTWARE QUALITY &amp; DELIVERY</text>
+    <rect x="3" y="221" width="48" height="27" rx="6" fill="#465577"/>
+    <text class="badge" x="27" y="239" text-anchor="middle">Git</text>
+    <rect x="58" y="221" width="128" height="27" rx="6" fill="#465577"/>
+    <text class="badge" x="122" y="239" text-anchor="middle">GitHub Actions</text>
+    <rect x="193" y="221" width="70" height="27" rx="6" fill="#465577"/>
+    <text class="badge" x="228" y="239" text-anchor="middle">pytest</text>
+    <rect x="270" y="221" width="108" height="27" rx="6" fill="#465577"/>
+    <text class="badge" x="324" y="239" text-anchor="middle">Hypothesis</text>
+    <rect x="385" y="221" width="53" height="27" rx="6" fill="#465577"/>
+    <text class="badge" x="411.5" y="239" text-anchor="middle">Ruff</text>
+  </g>
+</svg>
